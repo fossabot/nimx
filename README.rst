@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F42t%2Fnimx.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2F42t%2Fnimx?ref=badge_shield)
+
 ===========
 nimx |travis| |nimble|
 ===========
@@ -72,3 +74,7 @@ Running nimx samples
 Reference
 ====================
 TODO
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F42t%2Fnimx.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2F42t%2Fnimx?ref=badge_large)
